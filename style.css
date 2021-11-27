@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #39A2DB;
-  /* background-image: url("background website.jpg"); */
+/*   background-color: #39A2DB; */
+  background-image: url("background website.jpg");
   background-size: cover
 }
 
