@@ -281,4 +281,12 @@ li {
   .header, .main, .footer, .note{
     margin: 0 0;
   }
+
+  .header-logo {
+    font-size: 45px;
+  }
+
+  .main{
+    padding: 0 50px;
+  }
 }
