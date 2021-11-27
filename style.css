@@ -4,7 +4,7 @@
 }
 
 body {
-/*   background-color: #39A2DB; */
+  /* background-color: #39A2DB; */
   background-image: url("background website.jpg");
   background-size: cover
 }
@@ -280,13 +280,10 @@ li {
 @media screen and (max-width: 768px){
   .header, .main, .footer, .note{
     margin: 0 0;
+    padding: 10px;
   }
 
   .header-logo {
     font-size: 45px;
-  }
-
-  .main{
-    padding: 0 50px;
   }
 }
